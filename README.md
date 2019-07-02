@@ -1,24 +1,17 @@
-# README
+# Blogger2 - [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the my version of the Blogger 2 blog project from the JumpstartLab tutorial. The blog is built with Ruby on Rails.
 
-Things you may want to cover:
+### Features:
+- create articles/blog posts
+- readers can post comments
+- tagging posts
+- authentication
 
-* Ruby version
+## Acknowledgments
 
-* System dependencies
+Built by following the [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2) Blogger2 tutorial.
 
-* Configuration
+Ruby 2.6.3
+Rails 5.2.3
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
