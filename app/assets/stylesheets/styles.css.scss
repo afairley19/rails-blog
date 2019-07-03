@@ -1,15 +1,16 @@
-$primary_color: #AAA;
+$primary_color: #ff80bf;
 
 body {
   background-color: $primary_color;
   font: {
-    family: Verdana, Helvetica, Arial;
-    size: 14px;
+    color: #660031;
+    family: Georgia, serif;
+    size: 20px;
   }
 }
 
 a {
-  color: #0000FF;
+  color: #800040;
   img {
     border: none;
   }
@@ -24,9 +25,9 @@ a {
 #container {
   width: 75%;
   margin: 0 auto;
-  background: #fff;
+  background: #ffe6f2;
   padding: 20px 40px;
-  border: solid 1px black;
+  border: solid 3px #ffffff;
   margin-top: 20px;
 }
 
