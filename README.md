@@ -1,6 +1,6 @@
 # Blogger2 - [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2)
 
-Version of the Blogger 2 blog project from the JumpstartLab tutorial. The blog is built with Ruby on Rails. [Deployed to Heroku.](https://frozen-thicket-83740.herokuapp.com)
+Version of the Blogger 2 blog project from the JumpstartLab. The blog is built with Ruby on Rails. [Deployed to Heroku.](https://frozen-thicket-83740.herokuapp.com)
 
 ### Features:
 - create articles/blog posts
@@ -10,7 +10,7 @@ Version of the Blogger 2 blog project from the JumpstartLab tutorial. The blog i
 
 ## Acknowledgments
 
-Built by following the [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2) Blogger2 tutorial.
+Built by following: [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2.
 
 Ruby 2.6.3
 
