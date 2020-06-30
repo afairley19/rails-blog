@@ -10,7 +10,7 @@ Version of the Blogger 2 blog project from the JumpstartLab. The blog is built w
 
 ## Acknowledgments
 
-Built by following: [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2.
+Built by following: [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html#blogger-2).
 
 Ruby 2.6.3
 
